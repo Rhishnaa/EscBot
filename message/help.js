@@ -61,10 +61,10 @@ exports.otherMenu = (prefix) => {
 ╠➤ ${prefix}image *query*
 ╠➤ ${prefix}pinterest *query*
 ╠➤ ${prefix}nulis *teks*
-╠➤ ${prefix}iguser *ussername*
+╠➤ ${prefix}iguser *username*
 ╠➤ ${prefix}igstalk *username*
 ╠➤ ${prefix}githubstalk *username*
-╠➤ ${prefix}tiktokstalk *ussername*
+╠➤ ${prefix}tiktokstalk *username*
 ╠➤ ${prefix}img2url *reply foto*
 ╠➤ ${prefix}ytsearch *query*
 ╚════════════════❥︎
@@ -203,7 +203,7 @@ exports.rulesBot = (prefix) => {
 ᴛᴏ ᴜsᴇ ʙᴏᴛ ${prefix}ᴍᴇɴᴜ
 
 ᴏᴡɴᴇʀ ʙᴏᴛ:
-wa.me/6587255582
+wa.me/6283830172470
 `
 }
 exports.Menu = (prefix) => {
