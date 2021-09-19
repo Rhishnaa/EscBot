@@ -1,7 +1,7 @@
 {
-  "name": "Bosco",
+  "name": "EscBot",
   "version": "1.0.0",
-  "description": "Gak Ada",
+  "description": "RIN LOPYU",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
   },
-  "author": "Denis",
+  "author": "RHISHNA",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "@vitalets/google-translate-api": "^7.0.0",
@@ -49,11 +49,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nino-chan02/NinoWangy"
+    "url": "git+https://github.com/Rhishnaa/EscBot"
   },
   "bugs": {
-    "url": "https://github.com/Nino-chan02/NinoWangy/issues"
+    "url": "https://github.com/Rhishnaa/EscBot/issues"
   },
-  "homepage": "https://github.com/Nino-chan02/NinoWangy#readme",
+  "homepage": "https://github.com/Rhishnaa/EscBot#readme",
   "license": "ISC"
 }
